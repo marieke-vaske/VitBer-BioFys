@@ -8,3 +8,12 @@ while(True):
     i+=1
     if i==10:
         break
+
+def gandalfErGILF(): 
+    print("Gandalf er GILF")
+
+while(True):
+    gandalfErGILF()
+    i += 1 
+    if i == 3: 
+        break
