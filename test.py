@@ -12,6 +12,9 @@ while(True):
 def gandalfErGILF(): 
     print("Gandalf er GILF")
 
+print('lol')
+
+i = 0
 while(True):
     gandalfErGILF()
     i += 1 
